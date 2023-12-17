@@ -1,4 +1,4 @@
-# Assignment - 6 Sprite Sheets
+# Fruit Ninja - Final Project
 
 Video and Assets - https://drive.google.com/drive/folders/10PWrpgHN7k_cf2XXWIZl1a-muNlAQw-b?usp=sharing
 
